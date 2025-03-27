@@ -1,7 +1,7 @@
 # Maven Market
 
-![Maven Market Logo](Maven_Market![Maven_Market](https://github.com/user-attachments/assets/f3bb429a-a5e3-415a-8256-e5b252e39cd2)
-.png)
+[Maven_Market](https://github.com/user-attachments/assets/f3bb429a-a5e3-415a-8256-e5b252e39cd2)
+
 
 ## Overview
 Maven Market is a comprehensive market analysis and reporting project designed to provide insights into sales trends, customer behavior, and product performance. This project leverages data visualization tools and analytical techniques to generate actionable insights for decision-making.
